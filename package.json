@@ -19,8 +19,5 @@
   "dependencies": {
     "azure-functions-core-tools": "^3.0.2245"
   },
-  "keywords": [
-    "azure function",
-    "azure"
-  ]
+  "keywords": ["azure function", "azure"]
 }
